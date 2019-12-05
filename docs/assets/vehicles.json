@@ -1,0 +1,20 @@
+[
+    {
+        "type": "scooter",
+        "brand": "lime",
+        "lat": "-34.8372992",
+        "lon": "-56.1922048"
+    },
+    {
+        "type": "scooter",
+        "brand": "movo",
+        "lat": "-34.84",
+        "lon": "-56.18"
+    },
+    {
+        "type": "bicycle",
+        "brand": "lime",
+        "lat": "-34.85",
+        "lon": "-56.20"
+    }
+  ]
